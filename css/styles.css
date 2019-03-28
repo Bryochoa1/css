@@ -1,0 +1,155 @@
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'ABeeZee', sans-serif;
+}
+
+
+h1 {
+  font-size: 5.265rem;
+  margin: 50 auto 50 auto;
+  font-family: 'Great Vibes', cursive;
+  color: #113f67;
+  line-height: 2;
+}
+
+h2 {
+  font-size: 2rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  line-height: 1.2;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+}
+
+a {
+  color: #11999E;
+}
+
+hr {
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom-style: dotted;
+  border-bottom-width: thick;
+  width: 100px;
+  color: #66BFBF;
+}
+
+.programer {
+  font-weight: normal;
+  color: #113f67;
+}
+.pro {
+  font-style: italic;
+}
+
+.bottom-container {
+  background-color: #113f67;
+  position: relative;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+
+.middle-container {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #226597;
+  position: relative;
+}
+.topcontainer {
+  background-color: #87c0cd;
+  position: relative;
+  padding-top: 40px;
+  padding-bottom: 30px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  bottom: 300px;
+  left: 300px
+}
+
+.skill-row {
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+  line-height: 2;
+  padding-bottom: 20px;
+}
+
+.skills {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.creative {
+  width: 25%;
+  float: left;
+  margin-right: 30px
+}
+
+.taco {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.profile{
+  margin-bottom: 50px;
+  padding-top: 40px;
+  line-height: 2;
+}
+
+.contact-me {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.btn {
+	background-color:#dbe6c4;
+	-moz-border-radius:28px;
+	-webkit-border-radius:28px;
+	border-radius:28px;
+	border:1px solid #b2b8ad;
+	display:inline-block;
+	cursor:pointer;
+	color:#757d6f;
+	font-family:Arial;
+	font-size:17px;
+	padding:11px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ced9bf;
+  margin-top: 10px;
+
+}
+
+.btn:hover {
+	background-color:#9ba892;
+}
+
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+.profile-discription {
+  text-align: center;
+  margin: auto 20% auto 20%;
+}
+
+.contact-me-p {
+  text-align: center;
+  margin: auto 20% auto 20%;
+  line-height: 2;
+}
